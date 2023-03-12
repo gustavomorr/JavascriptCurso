@@ -26,4 +26,4 @@ console.log(obj.falar())
 
 //Voce também pode passar uma função como parâmetro para outra função
 
-
+//Altera
